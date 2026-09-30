@@ -1,0 +1,8 @@
+empty_tpl=()
+print("Empty tuple:",empty_tpl)
+int_tpl=(13,56,27,18,11,23)
+print("Tuple with integers:",int_tpl)
+mix_tpl=(6,"Tpointtech",17.43)
+print("Tuple with different data types:",mix_tpl)
+nstd_tpl=("Tpointtech",{4:5,6:2,8:2},(5,6,15,5))
+print("A nested tuple:",nstd_tpl)
