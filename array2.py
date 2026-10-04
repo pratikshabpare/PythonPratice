@@ -1,0 +1,10 @@
+import array as arr
+a=arr.array('i',[2,4,5,6])
+print("First element is:",a[0])
+print("Second element is:",a[1])
+print("Third element is:",a[2])
+print("Fourth element is:",a[3])
+print("Last element is:",a[-1])
+print("Second Last element is:",a[-2])
+print("Third last element is:",a[-3])
+print("Fourth last element is :",a[-4])
