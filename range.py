@@ -1,0 +1,11 @@
+data=range(5)
+print(data)
+print(type(data))
+Data1=range(1,7)
+print(Data1)
+Data2=range(3,9,2)
+print(Data2)
+print("Data inside data is:",len(data))
+print("Data insife Data1",len(Data1))
+print("Data insife Data1",len(Data2))
+
